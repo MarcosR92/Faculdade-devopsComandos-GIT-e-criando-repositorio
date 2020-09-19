@@ -33,3 +33,6 @@ Exemplo comando Pull:
 
 Exemplo comando Checkout:  
 1 - git checkout + nome da branch(print_18 mostrando a mudança dos arquivos no repositório local conforme muda do master para branch1 e da branch1 para master)  
+  
+Exemplo comando Log:  
+1 - git log (print_19 mostrando o histórico dos commits efetuados)  
